@@ -43,9 +43,24 @@ padding: 20px;
 
 nav {
     color: lavenderblush;
+    position: sticky;
+    top: 0px;
 }
 
 time {
     color: lightskyblue;
 }
+
+section {
+    display:flex;
+    padding:30px;
+    margin:10px;
+   
+}
+
+article {
+    padding: 30px;
+    margin: 20px;
+}
+
 
