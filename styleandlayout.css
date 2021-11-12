@@ -14,7 +14,7 @@ h1 {
     color: darkorchid;
 }
 h2 {
-    font-size: 4 em;
+    font-size: 4em;
     color: darkslategray;
 }
 h4 {
@@ -63,4 +63,8 @@ article {
     margin: 20px;
 }
 
-
+@media all and (width: 400px) {
+    body {
+        color: red;
+    }
+}
